@@ -1,5 +1,17 @@
-# tabela-nutricao
+# Sistema para gerenciar pacientes
 
-Tabela em HTML, CSS e JS simulando os dados de pacientes para cálculo de IMC.
+### Descrição
+O projeto foi desenvolvido utlizando HTML, CSS e JS durante a trilha **Oracle ONE** na plataforma **Alura**.
 
-Nela, é possível observar que quando há valores fora dos padrões definidos, a linha fica colorida para mais fácil visualização e correção.
+### Principais funcionalidades
+- [x] Exibir a listagem de todos os pacientes;
+- [x] Filtrar os pacientes;
+- [x] Adicionar um novo paciente;
+- [x] Remoção de pacientes;
+- [x] Cálculo do IMC dinamicamente de todos os pacientes;
+- [x] Validação dos campos do formulário;
+- [x] Requisição para buscar pacientes na API utilizando AJAX;
+- [x] Tratamento de erros da chamada a API.
+
+### A imagem abaixo apresenta o layout da página criada
+![](./img/layout-tabela-nutricao.png)
