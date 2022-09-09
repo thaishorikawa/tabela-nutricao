@@ -1,7 +1,7 @@
 # Sistema para gerenciar pacientes
 
 ### Descrição
-O projeto foi desenvolvido utlizando HTML, CSS e JS durante a trilha **Oracle ONE** na plataforma **Alura**.
+O projeto foi desenvolvido utilizando HTML, CSS e JS durante a trilha **Oracle ONE** na plataforma **Alura**.
 
 ### Principais funcionalidades
 - [x] Exibir a listagem de todos os pacientes;
